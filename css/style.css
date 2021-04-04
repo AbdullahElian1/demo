@@ -1,0 +1,71 @@
+header {
+    background-color:#074866 ;
+    color: white;
+    height: 120px;
+}
+header nav{
+    float: right;
+    width: 25%;
+    margin-top: 20px;
+
+}
+header h1{
+    float: left;
+    margin: 30px 0 0 1% ;
+
+}
+header nav ul li {
+    display: inline-block;
+    margin: 30 px 20px 30px 20px;
+
+}
+ header nav ul li a{
+     color: white;
+     text-decoration: none;
+     margin-right:6px ;
+     font-size: 20px;
+     
+ }
+
+ #first {
+    height: 400px;
+    width:70% ;
+    background-color:#edffec ;
+    text-align: center;
+    margin: 40px 0 30px 15%; ;
+    
+    font-weight: bold;
+    
+
+}
+#first img{
+    padding: 10px;
+}
+#A{
+    background-color: rgb(27, 165, 165);
+    margin-left: 35%;
+    width: 300px;
+}
+    
+
+ .B{
+    background-color: #5fa7a3;
+    width: 70%;
+    height: 100px;
+    margin: 30px;
+    padding: 20px;
+    display: inline-block;
+    width: 300px ;
+    text-align: center;
+   
+
+}
+
+#C{
+    background-color: aqua;
+}
+ 
+
+
+
+ 
